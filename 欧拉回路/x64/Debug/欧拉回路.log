@@ -1,7 +1,0 @@
-﻿  Euler.cpp
-C:\Users\ICEFJL\Desktop\离散数学\欧拉回路\Euler.cpp(46,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
-C:\Users\ICEFJL\Desktop\离散数学\欧拉回路\Euler.cpp(179,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-C:\Users\ICEFJL\Desktop\离散数学\欧拉回路\Euler.cpp(211,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-C:\Users\ICEFJL\Desktop\离散数学\欧拉回路\Euler.cpp(222,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-C:\Users\ICEFJL\Desktop\离散数学\欧拉回路\Euler.cpp(241,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-  欧拉回路.vcxproj -> C:\Users\ICEFJL\Desktop\离散数学\欧拉回路\x64\Debug\欧拉回路.exe

@@ -1,0 +1,40 @@
+[
+  {
+    "directory": "c:\\Users\\ICEFJL\\Desktop\\离散",
+    "arguments": [
+      "C:\\Program",
+      "Files\\Microsoft",
+      "Visual",
+      "Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX86\\x86\\cl.exe",
+      "/c",
+      "/nologo",
+      "/Zi",
+      "/FS",
+      "/Fdbuild\\windows\\x86\\debug\\compile.最小生成树.pdb",
+      "/Od",
+      "/EHsc",
+      "/Fobuild\\.objs\\最小生成树\\windows\\x86\\debug\\src\\最小生成树\\MinTree.cpp.obj",
+      "src\\最小生成树\\MinTree.cpp"
+    ],
+    "file": "src\\最小生成树\\MinTree.cpp"
+  },
+  {
+    "directory": "c:\\Users\\ICEFJL\\Desktop\\离散",
+    "arguments": [
+      "C:\\Program",
+      "Files\\Microsoft",
+      "Visual",
+      "Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX86\\x86\\cl.exe",
+      "/c",
+      "/nologo",
+      "/Zi",
+      "/FS",
+      "/Fdbuild\\windows\\x86\\debug\\compile.欧拉回路.pdb",
+      "/Od",
+      "/EHsc",
+      "/Fobuild\\.objs\\欧拉回路\\windows\\x86\\debug\\src\\欧拉回路\\Euler.cpp.obj",
+      "src\\欧拉回路\\Euler.cpp"
+    ],
+    "file": "src\\欧拉回路\\Euler.cpp"
+  }
+]
